@@ -1,4 +1,7 @@
 name: DopeTrope
 description: DopeTrope template for Jekyll
+
+baseurl: '/DopeTrope'
+
+gems: [jekyll-paginate]
 paginate: 10
-baseurl: '/DopeTrope-Jekyll-Theme'
